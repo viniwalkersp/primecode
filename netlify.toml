@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/transcripts/*"
+  to = "https://prime-code-br.github.io/transcripts/:splat"
+  status = 200
